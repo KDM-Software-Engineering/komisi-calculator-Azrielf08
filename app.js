@@ -15,7 +15,7 @@ function calculateKomisi(nilaiKontrak) {
   } 
 
   else if (nilaiKontrak >= 1000000) {
-  return 1000000;
+  return 100000;
   } 
 
   else {
